@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Content - SEC Content</name>
+		<description>Plugin Content - SEC Content</description>
+		<element>plg_content_seccontent</element>
+		<type>plugin</type>
+		<version>1.0.0</version>
+		<client>site</client>
+		<infourl title="Articles Thumbnails">https://secardiologia.github.io/seccontent.html</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/secardiologia/plg_content_seccontent/archive/master.zip</downloadurl>
+		</downloads>
+        <tags>
+			<tag>stable</tag>
+		</tags>
+        <maintainer>GitSEC</maintainer>
+        <maintainerurl>https://secardiologia.github.io</maintainerurl>
+		<targetplatform name="joomla" version="3.[6789]" />
+	</update>
+</updates>
